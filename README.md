@@ -1,3 +1,3 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=wizlite)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=wizlite&theme=transparent&include_all_commits=true)
 ![Top Launguages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wizlite)
 [![trophy](https://github-profile-trophy.vercel.app/?username=WiZLite)](https://github.com/ryo-ma/github-profile-trophy)
